@@ -11,3 +11,14 @@ O principal objetivo do desafio foi refatorar o componente `App`, retirando toda
 
 No gif abaixo é possível conferir o funcionamento da aplicação após a adição dos recursos solicitados:
 
+
+### Autora
+---
+
+ <img style="border-radius: 50%;" src="./src/image/kaka.jpg" width="100px;" alt="kcerdeira"/>
+ <b>Kamila Cerdeira</b> 🚀
+
+Feito com ❤️ por Kamila Cerdeira 👋🏽 Entre em contato!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Kamila-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamila-cerdeira/)](https://www.linkedin.com/in/kamila-cerdeira/) 
+[![Gmail Badge](https://img.shields.io/badge/-kcerdeira.mkt@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kcerdeira.mkt@gmail.com)](mailto:kcerdeira.mkt@gmail.com)
