@@ -11,6 +11,7 @@ O principal objetivo do desafio foi refatorar o componente `App`, retirando toda
 
 No gif abaixo é possível conferir o funcionamento da aplicação após a adição dos recursos solicitados:
 
+https://user-images.githubusercontent.com/66564811/119532676-79ea3d80-bd5b-11eb-9e62-93def99339b3.mp4
 
 ### Autora
 ---
